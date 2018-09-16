@@ -1,0 +1,25 @@
+.container .pagination {
+    padding: 40px 0;
+    display: block;
+    height: 40px;
+    text-align: center;
+}
+
+.container .pagination .link-to-table {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-decoration: none;
+    border: 1px solid #333;
+    line-height: 40px;
+    margin: 0 7px;
+    color: #333;
+}
+
+tr, td {
+    padding: 7px 15px;
+    margin: 0;
+    border: 1px solid #333;
+    text-align: center;
+}

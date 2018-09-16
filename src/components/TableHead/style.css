@@ -1,0 +1,10 @@
+thead th {
+    white-space: nowrap;
+}
+
+thead th {
+    padding: 7px 15px;
+    margin: 0;
+    border: 1px solid #333;
+    text-align: center;
+}

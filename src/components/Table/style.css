@@ -1,0 +1,8 @@
+.container .table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.container .selected-row {
+    padding: 7px;
+}
